@@ -1,1 +1,2 @@
-# Project-37
+# Trex-Runner
+Google trex runner game.
